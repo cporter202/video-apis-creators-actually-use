@@ -1,0 +1,26 @@
+{
+  "name": "video-apis-creators-actually-use",
+  "description": "This GitHub repo is a powerhouse collection of video APIs creators can start using immediately \u2014 YouTube, shorts, transcripts, thumbnails, and more. One of the most valuable video API lists on GitHub.",
+  "topics": [
+    "video",
+    "youtube",
+    "apis",
+    "creators",
+    "transcripts",
+    "shorts",
+    "content-creation",
+    "apify",
+    "awesome-list",
+    "developers",
+    "tiktok",
+    "thumbnails"
+  ],
+  "total": 705,
+  "counts": {
+    "youtube-channel-tools": 289,
+    "transcripts-captions": 75,
+    "shorts-clips": 153,
+    "thumbnails-metadata": 66,
+    "other-video-tools": 122
+  }
+}
