@@ -305,6 +305,9 @@ YouTube channel scrapers, analytics, search, and channel growth intel.
 | [Youtube View & Transcript Generator](https://apify.com/nocodeventure/youtube-view-transcript-generator?fpr=p2hrc6) | YouTube Views Generator is a straightforward tool that helps you increase the views or get the transcription on any YouTube video. It’s designed to boost your video visibility and improve overall... |
 | [YouTube 影片關鍵字搜尋 (Beta)](https://apify.com/futurizerush/youtube-video-scraper-zh-tw?fpr=p2hrc6) | 搜尋 YouTube 並擷取影片資訊，包括標題、描述、觀看次數、頻道資訊等。支援上傳日期、影片長度與排序篩選。適合市場研究、競品分析、內容創作者使用。 |
 | [YouTube2MD - Repurpose Your Own Videos into Markdown](https://apify.com/stunning_xylophone/youtube2md?fpr=p2hrc6) | A creator tool that converts your own YouTube video transcripts into structured Markdown. Ideal for repurposing your content into blog posts, documentation, or AI-ready knowledge bases. Only for use... |
+| [✨ YouTube Video Details API](https://apimesa.com) | Get full details for any YouTube video — title, channel, views, likes, comments, publish date, duration, and thumbnails — from a video ID or URL. Responses are cached for 24 hours. |
+| [✨ YouTube Channel Details API](https://apimesa.com) | Get full details for any YouTube channel — name, handle, subscribers, total views, video count, avatar, and description — from a channel ID, @handle, or URL. Responses are cached for 24 hours. |
+| [✨ YouTube Playlist Details API](https://apimesa.com) | Get a YouTube playlist's metadata plus its videos (25 per page with pagination) — title, channel, item count, and per-video details. Pass page_token to walk large playlists. Responses are cached for … |
 
 ---
 
