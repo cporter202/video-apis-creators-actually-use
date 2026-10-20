@@ -82,6 +82,7 @@ Thumbnail grabbers, video metadata, tags, and packaging helpers.
 | [X(Twitter) Video Scraper API – Extract Video, Audio & Metadata](https://apify.com/apple_yang/twitter-video-scraper-api?fpr=p2hrc6) | X (Twitter) Video Scraper API for extracting videos, audio, and metadata from tweets, threads, and timelines. Download Twitter videos, extract media content, and access structured data for AI,... |
 | [XNXX Video Downloader 🎥](https://apify.com/easyapi/xnxx-video-downloader?fpr=p2hrc6) | A powerful and efficient Actor for downloading videos from XNXX.com. Extract high-quality video content, metadata, and direct download links with ease. Perfect for content archiving and media... |
 | [XVideos Downloader 🎥](https://apify.com/easyapi/xvideos-downloader?fpr=p2hrc6) | A powerful and efficient Actor for extracting video content and metadata from XVideos. Get direct download links, video information, and thumbnails in HD quality. Perfect for content archiving and... |
+| [✨ Video Thumbnail Extractor](https://apimesa.com) | Grab a PNG still frame from any point in a video (default 1 second in, up to 5 minutes) — send base64 video up to 10MB decoded. |
 
 ---
 
