@@ -138,6 +138,10 @@ Everything else video — Vimeo, Twitch, downloaders, and misc creator tooling.
 | [Xiaohongshu (RedNote) Pro Scraper](https://apify.com/habit.zhou/xiaohongshu-pro-scraper?fpr=p2hrc6) | Five-mode Xiaohongshu / RedNote scraper: keyword search, note details, user profile, topic feed, trending. Returns title, body, likes, collects, comments, hashtags, images, video, location, time. No... |
 | [Xiaohongshu Comments Scraper - Reply Threads (RedNote)](https://apify.com/zen-studio/rednote-comments-scraper?fpr=p2hrc6) | Extract every Xiaohongshu (RedNote) comment with nested reply threads, author profile, avatar URL, IP city, like counts, attached pictures, and @-mentions. Paste note URLs or 24-character note IDs.... |
 | [Xigua 西瓜视频 Search Scraper - Keyword + Comments + MP4 下载](https://apify.com/zen-studio/xigua-video-search-scraper?fpr=p2hrc6) | Search Xigua (西瓜视频) by keyword or hashtag — up to 1,000 videos with title, author, engagement stats, 1080p/720p/480p MP4 download URLs, hashtags, covers, optional comments and replies. Cross-app... |
+| [✨ Image Captioning API](https://apimesa.com) | Generate a natural-language caption for any image with a self-hosted Moondream 2 vision-language model — no third-party AI vendor in the loop. Responses are cached for 24 hours. |
+| [✨ Visual Question Answering API](https://apimesa.com) | Ask a free-form question about an image and get an answer from a self-hosted Moondream 2 vision-language model. Responses are cached for 24 hours. |
+| [✨ Vision Detection API](https://apimesa.com) | Detect faces (boxes + landmarks), pose landmarks, and hand landmarks in an image using Google's MediaPipe toolkit — detection only, never recognition. Responses are cached for 24 hours. |
+| [✨ Portrait Background Blur API](https://apimesa.com) | Blur the background of a portrait photo while keeping the person sharp, using MediaPipe selfie segmentation. Responses are cached for 24 hours. |
 
 ---
 
