@@ -169,6 +169,16 @@ YouTube Shorts, TikTok clips, Reels-style short video, and clip cutters.
 | [Twitch Scraper](https://apify.com/automation-lab/twitch-scraper?fpr=p2hrc6) | Scrape Twitch channels, live streams, top games, clips, and VODs. Extract follower counts, viewer stats, stream titles, and clip data. Pure API scraper — fast, reliable, no browser needed. Export to... |
 | [Ultimate TikTok Scraper (no-limit)](https://apify.com/novi/tiktok-scraper-ultimate?fpr=p2hrc6) | Scrape TikTok profiles, videos, and hashtags to extract key data. Use search queries or direct URLs to gather post details, shares, hearts, followers, music data, and user info. |
 | [WeChat Channels Scraper — 视频号 Video Search](https://apify.com/sian.agency/wechat-channels-scraper?fpr=p2hrc6) | Search WeChat Channels (视频号) short-form videos by keyword and export clean datasets — video titles, direct video URLs, cover images, creators, publish dates, and engagement signals. No account or API... |
+| [✨ Video Trimmer](https://apimesa.com) | Trim short video clips using start and end timestamps. Allows up to 30 seconds of active model processing; startup waiting time is separate. Includes a private job status URL. Charged once on … |
+| [✨ Video to WebP](https://apimesa.com) | Convert a short video clip into an animated WebP. Video input: up to five seconds at 640×480 pixels. Allows up to 30 seconds of active model processing; startup waiting time is separate. Includes a … |
+| [✨ Split Screen Video](https://apimesa.com) | Place two short videos side by side. Allows up to 30 seconds of active model processing; startup waiting time is separate. Includes a private job status URL. Charged once on success; terminal … |
+| [✨ Video Splitter](https://apimesa.com) | Split a short video into smaller clips. Allows up to 30 seconds of active model processing; startup waiting time is separate. Includes a private job status URL. Charged once on success; terminal … |
+| [✨ Video Watermarker](https://apimesa.com) | Add a text watermark to a short video. Allows up to 30 seconds of active model processing; startup waiting time is separate. Includes a private job status URL. Charged once on success; terminal … |
+| [✨ Slideshow Maker](https://apimesa.com) | Create a video slideshow from two or three images. Allows up to 30 seconds of active model processing; startup waiting time is separate. Includes a private job status URL. Charged once on success; … |
+| [✨ Video+Audio Merge](https://apimesa.com) | Combine a short video with an audio track. Allows up to 30 seconds of active model processing; startup waiting time is separate. Includes a private job status URL. Charged once on success; terminal … |
+| [✨ Audiogram Maker](https://apimesa.com) | Turn an image and a short audio track into a video. Allows up to 30 seconds of active model processing; startup waiting time is separate. Includes a private job status URL. Charged once on success; … |
+| [✨ Video to GIF Converter](https://apimesa.com) | Convert a short video clip to an animated GIF (palette-optimized, 480px wide, 10fps) — send base64 video up to 10MB decoded and 30 seconds long. |
+| [✨ Video Compressor](https://apimesa.com) | Optimize a video for the web, targeting 1280px wide with AAC audio. An already smaller MP4 is returned unchanged to avoid increasing its size. Input: up to 10MB decoded and 30 seconds. |
 
 ---
 
